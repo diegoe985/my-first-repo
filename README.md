@@ -1,2 +1,7 @@
-# my-first-repo
-My first repository - Diego Escalera
+# My First GitHub Repository
+
+This is my very first repository on GitHub!
+
+**Author:** [Diego Escalera]
+**Date Created:** September 30, 2025
+**Purpose:** Practicing GitHub basics, including creating a repository and a README file.
